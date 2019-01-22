@@ -2,22 +2,6 @@
 # Database JSON, Google  Sheet, CSV
 
 
- ___________________
- | _______________ |
- | |XXXXXXXXXXXXX| |
- | |XTHPXXXXXTHPX| |
- | |XXXXXTHPXXXXX| |
- | |XTHPXXXXXTHPX| |
- | |XXXXXXXXXXXXX| |
- |_________________|
-     _[_______]_
- ___[___________]___
-|         [_____] []|__
-|         [_____] []|  \__
-L___________________J     \ \___\/
- ___________________      /\
-/###################\    (__)
-
 
 ## Projet réalisé avec amour par la team Grenoble:
 
